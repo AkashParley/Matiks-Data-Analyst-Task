@@ -36,7 +36,7 @@ This repository contains my completed project for the **Matiks Data Analyst Task
 - **High-Value Users**: Users in the top 10% revenue mostly came from specific countries and subscription tiers.
 - **Referral Sources**: Organic search users showed better retention and higher average revenue.
 
-See detailed visuals and narrative in the [insights report]([./insights_report/Matiks_Insights_Report.pdf](https://github.com/AkashParley/Matiks-Data-Analyst-Task/tree/main/insights)).
+See detailed visuals and narrative in the [insights report](https://github.com/AkashParley/Matiks-Data-Analyst-Task/tree/main/insights).
 
 ---
 
